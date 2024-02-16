@@ -1,8 +1,9 @@
 # Training
 ## Week 1-2: Introduction to Python
 #### Objective: Understand Python syntax and basic programming concepts.
-#### [Best Resource](https://automatetheboringstuff.com/)
-#### [Practice](https://www.codewars.com/dashboard). 
+#### [Resource - Book](https://automatetheboringstuff.com/)
+#### [Resource - W3 Schools](https://www.w3schools.com/python/default.asp)
+#### [Practice - Code Wars](https://www.codewars.com/dashboard). 
 
 ### Stage 1: 
 >Lesson 1
@@ -11,7 +12,7 @@
   - data types
 - Basic operators.
 - [Resources - Automate the boring stuff](https://automatetheboringstuff.com/2e/chapter1/)
-- [Resources - Tutorials Point](https://www.tutorialspoint.com/python/python_basic_operators.htm)
+- [Resources - W3 Schools](https://www.w3schools.com/python/python_syntax.asp)
 >Lesson 2
 - Control flow - conditions and loops. 
 - Work on exercises that involve:
@@ -19,7 +20,7 @@
   - for loops
   - while loops
 - [Resources - Automate the boring stuff](https://automatetheboringstuff.com/2e/chapter3/)
-- [Resources - Tutorials Point](https://www.tutorialspoint.com/python/python_control_flow.htm)
+- [Resources - W3 Schools](https://www.w3schools.com/python/python_conditions.asp)
 
 >Practice Codewars
 > 
@@ -36,13 +37,13 @@ Objective: Learn to organize code into functions and understand Python's core da
 >Lesson 1
 - Functions - defining and calling functions, understanding scope and parameters. 
 - [Resources - Automate the boring stuff](https://automatetheboringstuff.com/2e/chapter3/)
-- [Resources - Tutorials Point](https://www.tutorialspoint.com/python/python_functions.htm)
+- [Resources - W3 Schools](https://www.w3schools.com/python/python_functions.asp)
 
 
 >Lesson 2
 - Data structures - lists, dictionaries, sets, and tuples. Focus on when and how to use each.
 - [Resources - Automate the boring stuff](https://automatetheboringstuff.com/2e/chapter4/)
-- [Resources - Tutorials Point](https://www.tutorialspoint.com/python/python_functions.htm)
+- [Resources - W3 Schools](https://www.w3schools.com/python/python_lists.asp)
 
 >Practice Codewars
 > 
@@ -59,13 +60,13 @@ Objective: Learn to read from and write to files and handle errors in Python scr
 - File operations:
   - open, read, write, and close files.
 - [Resources - Automate the boring stuff](https://automatetheboringstuff.com/2e/chapter8/)
-- [Resources - Tutorials Point](https://www.tutorialspoint.com/python/python_file_handling.htm)
+- [Resources - W3 Schools](https://www.w3schools.com/python/python_file_handling.asp)
 
 >Lesson 2 
 - Error and exceptions handling - try, except, finally blocks.
 
 - [Resources - Automate the boring stuff](https://automatetheboringstuff.com/2e/chapter10/)
-- [Resources - Tutorials Point](https://www.tutorialspoint.com/python/python_syntax_errors.htm)
+- [Resources - W3 Schools](https://www.w3schools.com/python/python_try_except.asp)
 >Practice Codewars
 > 
 > [Review and practice](https://www.codewars.com/dashboard).
@@ -82,12 +83,13 @@ Objective: Learn the basics of pandas for data analysis.
   - Series and DataFrame data structures. 
   - Installation and basic operations (loading data, viewing, and basic manipulations). 
 - [Resources - Pandas Docs](https://pandas.pydata.org/docs/user_guide/index.html)
+- [Resources - W3 Pandas](https://www.w3schools.com/python/pandas/default.asp)
 
 >Lesson 2 
  - Data Cleaning - 
    - handling missing data
    - data filtering, and sorting. 
- - [Resources - Tutorials Point](https://www.tutorialspoint.com/python_pandas/index.htm)
+ - [Resources - W3 Schools](https://www.w3schools.com/python/pandas/pandas_cleaning.asp)
  - [Resources - Pandas Docs](https://pandas.pydata.org/docs/user_guide/index.html)
 
 > Lesson 3
